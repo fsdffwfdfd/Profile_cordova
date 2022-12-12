@@ -10,8 +10,6 @@
 
 
 # 나의프로필소개 웹페이지
-<img src="https://user-images.githubusercontent.com/96104937/206108280-a493b6f0-4e03-41f3-bb37-fa16f648a211.png" width="90%">
-<img src="https://user-images.githubusercontent.com/96104937/206108344-75ad746f-0490-4574-a563-c20a42a03ba9.png" width="90%">
-<img src="https://user-images.githubusercontent.com/96104937/206108424-82e6aac9-e8f5-46a5-b678-7854e1a4ec3f.png" width="90%">
-<img src="https://user-images.githubusercontent.com/96104937/206108487-5564c5fa-07e8-4570-b3b7-b649477c6fbc.png" width="90%">
-
+<img src="https://user-images.githubusercontent.com/96104937/207123716-463c3fee-99b9-4442-afc3-79ec319af895.PNG" width="90%">
+<img src="https://user-images.githubusercontent.com/96104937/207123717-ab829468-47d8-4f06-8dcb-a7f95ca27a83.PNG" width="90%">
+<img src="https://user-images.githubusercontent.com/96104937/207123721-bac52190-3fcb-490c-b582-4310e6e3f5c0.PNG" width="90%">
